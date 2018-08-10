@@ -1,2 +1,2 @@
 # tradingView
-图标库
+coinset专用图表库
